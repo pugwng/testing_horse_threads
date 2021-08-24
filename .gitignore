@@ -1,0 +1,17 @@
+bin/
+dcu/
+.vscode/
+__history
+*~
+*.bak
+*.dcu
+*.dll
+*.drc
+*.exe
+*.identcache
+*.local
+*.log
+*.map
+*.res
+*.stat
+*.tvsconfig
