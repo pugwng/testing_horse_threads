@@ -1,0 +1,3 @@
+[submodule "dep/horse"]
+	path = dep/horse
+	url = https://github.com/HashLoad/horse.git
